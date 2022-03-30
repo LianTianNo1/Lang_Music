@@ -194,10 +194,9 @@ export default {
 .search-hot {
   width: 400px;
   height: 300px;
-  /* border: 1px solid #333; */
-  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: -3px 1px 11px 0px rgb(0 0 0 / 30%);
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #ffffffe8;
   position: absolute;
   top: 55px;
   right: 30px;

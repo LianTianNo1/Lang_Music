@@ -260,7 +260,7 @@ export default {
 .bottom {
   display: flex;
   align-items: center;
-  background-color: #ffffff;
+  background-color: #ffffff73;
   box-shadow: 0px -2px 2px rgb(145 145 145 / 12%);
 
   position: relative; /* 防止被覆盖 */

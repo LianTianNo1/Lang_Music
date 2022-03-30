@@ -51,6 +51,7 @@ export default {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  overflow: auto;
 }
 #app::before {
   position: absolute;
@@ -73,6 +74,7 @@ export default {
   top: 0;
   left: 0;
   right: 0;
+  box-shadow: 0px 1px 4px #0000004d;
 }
 
 .bottom {
@@ -80,13 +82,15 @@ export default {
   bottom: 0;
   left: 0;
   right: 0;
-  height: 60px;
+  height: 70px;
+  background-color: #ffffff6e;
+  box-shadow: 0px -2px 2px rgb(145 145 145 / 12%);
 }
 
 .index {
   position: fixed;
   top: 60px;
-  bottom: 60px;
+  bottom: 70px;
   left: 0;
   right: 0;
 }

@@ -233,7 +233,7 @@ export default {
   height: 70%;
   position: fixed;
   right: 10px;
-  bottom: 59px;
+  bottom: 70px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   background-color: #ffffffeb;
